@@ -1,4 +1,4 @@
-# [Heart Attack Analysis & Prediction Dataset] (https://github.com/Sam-Ghawbar/Data-Science)
+# [Project 1: Heart Attack Analysis & Prediction Dataset] (https://github.com/Sam-Ghawbar/Data-Science)
 About this dataset
 Age : Age of the patient
 Sex : Sex of the patient

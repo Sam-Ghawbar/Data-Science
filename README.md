@@ -1,6 +1,6 @@
 # [Case Study 1: Daily Total Female Births in California (USA) During 1959](https://github.com/Sam-Ghawbar/Data-Science)
 ## **Problem type:** Making Predictions
-![](https://github.com/Sam-Ghawbar/Data-Science/blob/main/Images/daily%20total%20female%20birth%20in%20California.jpg)
+![](https://github.com/Sam-Ghawbar/Data-Science/blob/main/Images/daily%20total%20female%20birth%20in%20California%20Dashboard.jpg)
 ## **Description:**
 Actual data of female birth in California starts from January 1, 1959 and ends in December 27, 1959. Average female birth during the year is 41. Maximum female birth was 73 female births and was recorded in September 23, 1959, while minimum female births was 23 and occured in February 1, 1959. 
 ## **Prediction:**
